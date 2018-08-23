@@ -6,6 +6,8 @@ Date modified: 2018-08-23
 
 **Table of Contents**
 
+<!-- TOC depthFrom:1 depthTo:3 withLinks:1 updateOnSave:0 orderedList:0 -->
+
 - [Course Overview](#course-overview)
 	- [Description](#description)
 	- [Objectives](#objectives)
@@ -13,6 +15,9 @@ Date modified: 2018-08-23
 	- [Course Websites](#course-websites)
 	- [Pre-Requisites](#pre-requisites)
 	- [Books and Supplies](#books-and-supplies)
+		- [Headphones](#headphones)
+		- [Computer](#computer)
+		- [Software](#software)
 - [Policies](#policies)
 	- [Course Evaluation](#course-evaluation)
 	- [Grades](#grades)
@@ -20,6 +25,9 @@ Date modified: 2018-08-23
 	- [Plagiarism and Cheating Policy](#plagiarism-and-cheating-policy)
 	- [Students with Disabilities](#students-with-disabilities)
 	- [Changes to the Course](#changes-to-the-course)
+
+<!-- /TOC -->
+
 
 
 # COURSE OVERVIEW
