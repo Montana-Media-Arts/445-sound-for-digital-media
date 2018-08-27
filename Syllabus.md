@@ -40,10 +40,10 @@ This course will involve weekly sketches and two larger compositions/artworks.
 
 ## Objectives
 
-Through this course, students are expected to;
+Through this course, students are expected to:
 
 - Gain a vocabulary and understanding about sound and audio
-- Become versed in some of the tools and techniques available for the creation of sound and audio, including;
+- Become versed in some of the tools and techniques available for the creation of sound and audio, including:
     - basic digital signal theory
     - signal flow
     - basic microphone types and techniques
@@ -134,7 +134,7 @@ You can also download a 30-day trial version of Ableton if you want to play arou
 
 ## Course Evaluation
 
-Student work and progress will be assessed through;
+Student work and progress will be assessed through:
 
 
 - Weekly Sketches
@@ -159,6 +159,7 @@ Project grades will be based primarily on the student’s ability to:
 4.  Demonstrate creativity beyond the expected technical requirements.
 5.  Properly and punctually deliver all assignment files.
 
+**Please Note:** All Projects are required for this course. Failure to complete and submit a project will result in a failing grade for the course. There are no exceptions to this rule. Completion of this course requires all projects be completed.
 
 #### Participation
 
@@ -212,7 +213,7 @@ Documentation assignments or weekly sketches handed in after the due date and ti
 
 ## Plagiarism and Cheating Policy
 
-Students are expected to adhere to academic conduct policies of the University of Montana as explained in the [Student Conduct Code](http://www.umt.edu/vpesa/). All students should act with personal integrity, respect other students’ dignity, rights, and property, and help create and maintain an environment in which all can succeed.
+Students are expected to adhere to academic conduct policies of the University of Montana as explained in Section V of your [University of Montana Student Conduct Code](http://www.umt.edu/vpesa/Dean%20of%20Students/default.php):  “Academic misconduct is subject to an academic penalty by the course instructor and/or a disciplinary sanction by the University.  Academic misconduct is defined as all forms of academic dishonesty, including but not limited to:  (1) plagiarism, (2) misconduct during an examination or academic exercise, (3) unauthorized possession of examination or other course materials, (4) tampering with course materials, (5) submitting false information, (6) submitting work previously presented in another course, (7) improperly influencing conduct, (8) substituting, or arranging substitution, for another student during an examination or other academic exercise, (9) facilitating academic dishonesty, and (10) Altering transcripts, grades, examinations, or other academically related documents.”
 
 Dishonesty will not be tolerated in this course. This includes, but is not limited to, cheating on tests, cheating on assignments, fabricating information or citations, having unauthorized possession of examinations, submitting work of another person or work previously used, or tampering with the academic work of other students.
 

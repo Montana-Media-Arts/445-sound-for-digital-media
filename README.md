@@ -6,11 +6,13 @@
 - [Dr. Michael Musick](http://michaelmusick.com)
 - E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu).
 - Office: McGill Hall, 232.
-
+- Office Hours:
+    - Wednesdays: 12:00pm - 1:00pm
+    - Thursdays: 11:30am - 1:30pm
 
 ## COURSE OVERVIEW
 
-_Sound for Digital Media_ is a project based course focusing on the technical and aesthetic qualities of creating sound and music for and with digital media. This course will aim to teach students technical skills, including; basic digital signal theory, signal flow, basic microphone types and techniques, session management and workflow, assisted sound synthesis, digital signal processing with off-the-shelf tools, basic editing, basic mixing, and basic mastering. Artistically and creatively, this course will study artists involved in electronic music, sound for the web, sonic artists, and commercial sound. The study of these artists will offer an aesthetic grounding for students to work against as they create their own audio based art or music.
+_Sound for Digital Media_ is a project based course focusing on the technical and aesthetic qualities of creating sound and music for and with digital media. This course will aim to teach students technical skills, including; basic digital signal theory, audio signal flow, basic microphone types, micing techniques, session management and workflow, assisted sound synthesis, digital signal processing with off-the-shelf tools, basic editing, basic mixing, and basic mastering. Artistically and creatively, this course will study artists involved in electronic music, sound for the web, sonic artists, and commercial sound. The study of these artists will offer an aesthetic grounding for students to work against as they create their own audio based art or music.
 
 This course will involve weekly sketches and two larger compositions/artworks.
 
