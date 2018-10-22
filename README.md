@@ -22,7 +22,7 @@ This course will involve weekly sketches and two larger compositions/artworks.
 - [Syllabus](https://github.com/Montana-Media-Arts/445-sound-for-digital-media/tree/master/Syllabus.md)
 - [Course GitHub Repo](https://github.com/Montana-Media-Arts/445-sound-for-digital-media)
 
-
+<!--
 # Weekly Breakdown
 
 ## Week 1
@@ -48,25 +48,5 @@ This course will involve weekly sketches and two larger compositions/artworks.
     5. What is signal processing?
     6. How does the analog to digital conversion process work?
 
-**Wednesday**
 
-
-**TODO:**
-
-
-## Week 2
-
-_No Class on Monday, Sept. 3rd for Labor Day_
-
-
-**Wednesday**
-
-
-**TODO:**
-
-
-## Week 3
-
-**Monday**
-
-_No Class on Monday, Sept. 10th as Dr. Musick will be out of town._
+-->
