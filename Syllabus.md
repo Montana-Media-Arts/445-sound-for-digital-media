@@ -40,21 +40,13 @@ This course will involve weekly sketches and two larger compositions/artworks.
 
 ## Objectives
 
-Through this course, students are expected to:
+Through this advanced course, students are expected to:
 
-- Gain a vocabulary and understanding about sound and audio
-- Become versed in some of the tools and techniques available for the creation of sound and audio, including:
-    - basic digital signal theory
-    - signal flow
-    - basic microphone types and techniques
-    - session management and workflow
-    - assisted sound synthesis
-    - digital signal processing with off-the-shelf tools
-    - basic editing
-    - basic mixing
-    - basic mastering
-- Explore their creative process through sonic-based art works or compositions
-- Present one larger work to the public
+- Integrate skills from all sonic arts courses towards the creation of portfolio quality creative works.
+- Present one larger work to the public.
+- Compare and analyze cannonical works against each other as well as individually created personal created works.
+- Through an iterative process, students are expected to asses the success and failing of individual aesthetic choices within their own artwork with the goal of revising artworks.
+
 
 Students are expected to bring ideas to explore these techniques. The goals of the projects are not simply about the successful application of the technical processes. Instead, the goal is to integrate these technical elements to make work that is meaningful.
 
