@@ -38,7 +38,7 @@ _Sound for Digital Media_ is a project based course focusing on the technical an
 
 This course will involve weekly sketches and two larger compositions/artworks.
 
-## Objectives
+## Objectives and Student Learning Outcomes (SLO's)
 
 Through this advanced course, students are expected to:
 
