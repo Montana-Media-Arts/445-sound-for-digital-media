@@ -44,7 +44,7 @@ Through this advanced course, students are expected to:
 
 - Integrate skills from all sonic arts courses towards the creation of portfolio quality creative works.
 - Present one larger work to the public.
-- Compare and analyze cannonical works against each other as well as individually created personal art works.
+- Compare and analyze canonical works against each other as well as individually created personal art works.
 - Through an iterative process, students are expected to asses the success and failing of individual aesthetic choices within their own artwork with the goal of revising artworks.
 - Demonstrate high technical proficiency of synthesis, recording, digital signal processing, and mixing with respect to both technical and creative applications. 
 - Employ mastering techniques to prepare works for distribution via approrpiate media and avenues. 
