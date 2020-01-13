@@ -14,10 +14,6 @@ Date modified: 2018-08-23
 	- [Professor/Instructor](#professorinstructor)
 	- [Course Websites](#course-websites)
 	- [Pre-Requisites](#pre-requisites)
-	- [Books and Supplies](#books-and-supplies)
-		- [Headphones](#headphones)
-		- [Computer](#computer)
-		- [Software](#software)
 - [Policies](#policies)
 	- [Course Evaluation](#course-evaluation)
 	- [Grades](#grades)
@@ -34,9 +30,9 @@ Date modified: 2018-08-23
 
 ## Description
 
-_Sound for Digital Media_ is a project based course focusing on the technical and aesthetic qualities of creating sound and music for and with digital media. This course will aim to teach students technical skills, including; basic digital signal theory, signal flow, basic microphone types and techniques, session management and workflow, assisted sound synthesis, digital signal processing with off-the-shelf tools, basic editing, basic mixing, and basic mastering. Artistically and creatively, this course will study artists involved in electronic music, sound for the web, sonic artists, and commercial sound. The study of these artists will offer an aesthetic grounding for students to work against as they create their own audio based art or music.
+_Sound for Digital Media_ is an advanced, project based course focusing on the technical and aesthetic qualities of creating sound, sonic art, and music for and with digital media. This course will aim to teach students technical skills, including; digital signal theory, signal flow, advanced microphone techniques, session management and workflow, assisted sound synthesis, advanced mixing, and mastering. Artistically and creatively, this course will study artists involved in electronic music, sound for the web, sonic artists, audio engineers, and commercial sound. The study of these artists will offer an aesthetic grounding for students to work against as they create their own audio based art, or work to capture the sonic art of other artists.
 
-This course will involve weekly sketches and two larger compositions/artworks.
+This course can more simply be thought of as an advanced sound studio course. There will be a lot of hands-on learning, work with studio resources, and work with professional studio software.
 
 ## Objectives and Student Learning Outcomes (SLO's)
 
@@ -44,10 +40,11 @@ Through this advanced course, students are expected to:
 
 - Integrate skills from all sonic arts courses towards the creation of portfolio quality creative works.
 - Present one larger work to the public.
-- Compare and analyze canonical works against each other as well as individually created personal art works.
+- Compare and analyze canonical works against each other as well as individually created personal art works or audio recordings.
 - Through an iterative process, students are expected to asses the success and failing of individual aesthetic choices within their own artwork with the goal of revising artworks.
-- Demonstrate high technical proficiency of synthesis, recording, digital signal processing, and mixing with respect to both technical and creative applications. 
-- Employ mastering techniques to prepare works for distribution via approrpiate media and avenues. 
+- Demonstrate high technical proficiency of synthesis, recording, digital signal processing, and mixing with respect to both technical and creative applications.
+- Employ mastering techniques to prepare works for distribution via appropriate media and avenues.
+- Explore their creative process through sonic-based art works or compositions
 
 
 Students are expected to bring ideas to explore these techniques. The goals of the projects are not simply about the successful application of the technical processes. Instead, the goal is to integrate these technical elements to make work that is meaningful.
@@ -74,54 +71,7 @@ Students are expected to bring ideas to explore these techniques. The goals of t
 
 For this semester, there are no specific pre-req's for this course. Instead, you are expected to utilize your previous expertise in sound, audio, music, and film towards the projects presented in the course.
 
-With that being said, it is suggested that you have taken Principles of Sound (MART 330), as well as Sound for Film (MART 345).
-
-## Books and Supplies
-
-There are no required texts that you must purchase for this course. All readings, music, or sound examples will be available to you through web links, the library, or the class Moodle.
-
-### Headphones
-
-You will need to bring a pair of headphones for work in this class. I would suggest you invest in a good pair, as part of your grade will be based on the technical quality of your work. If you cannot hear issues because you have poor quality headphones, then you are risking poor grades.
-
-You are looking for reference quality headphones. That means headphones that present your audio to you as honest and neutral as possible. A bad mix should sound like a bad mix. Hyped headphones that accentuate bass or highs in flattering ways can hide detail and mix issues.
-
-#### What not to get
-
-Apple earpods, other in-ear pods, beats headphones, or Marley brand tend to not be "accurate" sounding gear.
-
-#### Suggested Headphones
-
-Headphones, like all professional media gear can be cheap or incredibly expensive. With that in mind, you can get good quality headphones that don't break the bank. Here are a few of my suggestions.
-
-- [Samson SR850 Semi-Open-Back Studio Reference Headphones - $30](https://www.amazon.com/Samson-SR850-Professional-Reference-Headphones/dp/B002LBSEQS/ref=as_li_ss_tl?tag=studioheadphone-20&ie=UTF8&redirect=true&ref_=as_li_tl&linkId=29428ce379cfed3cb2be2666574f5db4) - These are the cheapest that will still “get the job done”.
-- [AKG K240STUDIO Semi-Open Studio Headphones - $57](https://www.amazon.com/AKG-240-Semi-Open-Studio-Headphones/dp/B0001ARCFA/ref=as_li_ss_tl?tag=studioheadphone-20&ie=UTF8&redirect=true&ref_=as_li_tl&linkId=0f9783b2deabd78b1bcd62dc1b342c05) - These are great headphones. However, they are “semi-open” which will both improve sound quality for mixing and make anyone sitting within 10 feet of you potentially stare in annoyance.
-- [Sennheiser HD 202 II Professional Headphones (Black) - $60](https://www.amazon.com/Sennheiser-HD-202-II-Professional/dp/B003LPTAYI/ref=pd_bxgy_23_2?_encoding=UTF8&pd_rd_i=B003LPTAYI&pd_rd_r=2edf0067-a70d-11e8-b9b0-b9c4745829eb&pd_rd_w=34QDu&pd_rd_wg=CK9Nu&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=7ca3846a-7fcf-4568-9727-1bc2d7b4d5e0&pf_rd_r=V1R67GPDR1C7CYABY16N&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=V1R67GPDR1C7CYABY16N)
-- [Sony MDR7506 Professional Large Diaphragm Headphone - $80](https://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E/ref=sr_1_1?s=musical-instruments&ie=UTF8&qid=1535053810&sr=1-1&keywords=MDR-7506#) - (An industry standard for recording and working with headphones)
-- [Sennheiser HD280PRO Headphone - $100](https://www.amazon.com/gp/product/B00IT0IHOY?tag=audiprodtips-20&ie=UTF8&th=1) - (I have had a pair of these since I was an undergrad. They are still my main pair of headphones for work when I need them. They are built to last and sound great.)
-- [Audio-Technica ATH-M50x Professional Studio Monitor Headphones - $150](https://www.amazon.com/dp/B00HVLUR86/ref=dp_cerb_3)
-- [beyerdynamic DT 770 PRO 32 Ohm Studio Headphone - $170](https://www.amazon.com/dp/B0778DNYPK?aaxitk=HMFdJ5SDf-t20usaXIOB-w&pd_rd_i=B0016MNAAI&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=54dc821a-0937-4e6f-9da9-f8dd5443145d&pf_rd_s=desktop-sx-top-slot&pf_rd_t=301&pf_rd_i=DT770&hsa_cr_id=9048693010101&sb-ci-n=textLink&sb-ci-v=beyerdynamic%2BDT%2B770%2BPRO%2B80%2BOhm%2BStudio%2BHeadphone&th=1)
-
-
-For more info, the following guide provides good information on the two major types of headphones and suggestions.
-
-- [Best Studio Headphones: The Ultimate Musician’s Guide](https://ehomerecordingstudio.com/best-recording-studio-headphones/)
-
-### Computer
-
-You will need access to a computer capable of running modern digital audio workstations (DAWs) and editing software. This computer should also be capable of real-time signal processing through analog inputs and outputs (i.e., using an audio interface or web cam). Please leverage departmental resources whenever necessary.
-
-### Software
-
-For this semester, we will be heavily utilizing Ableton Live. Ableton Live is a modern DAW that (in my opinion) emphasizes creation and performance as opposed to editing and mixing. This software has become incredibly popular within the industry and amongst artists.
-
-The downside to Ableton Live is that it is not free. In fact, it is relatively expensive. We will have a number of copies available for use in the computer labs. You are welcome to do all of your work here on these computers. If you find yourself liking Ableton, I would encourage you to consider purchasing it. Currently, Ableton Suite is $449 for students and Ableton Standard is $269. The difference between Ableton Suite and Standard is substantial. Suite offers a lot more processing plugins, instruments, and midi effects, as well as Max for Live. You will be fine with Standard in this class, but may find yourself wanting more later.
-
-- [Ableton Live for students and teachers](https://www.ableton.com/en/shop/education/)
-
-You can also download a 30-day trial version of Ableton if you want to play around more. Although I would encourage you to consider saving this till the end of the semester, when you want to do more work at home.
-
-
+With that being said, it is suggested that you have taken Intro to Sonic Art (MART 245), Principles of Sound (MART 330), as well as Sound for Film (MART 345).
 
 
 # Policies
