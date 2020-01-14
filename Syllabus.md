@@ -9,11 +9,16 @@ Date modified: 2018-08-23
 <!-- TOC depthFrom:1 depthTo:3 withLinks:1 updateOnSave:0 orderedList:0 -->
 
 - [Course Overview](#course-overview)
+	- [Basic Info](#basic-info)
 	- [Description](#description)
-	- [Objectives](#objectives)
+	- [Objectives and Student Learning Outcomes (SLO's)](#objectives-and-student-learning-outcomes-slos)
 	- [Professor/Instructor](#professorinstructor)
 	- [Course Websites](#course-websites)
 	- [Pre-Requisites](#pre-requisites)
+	- [Books and Supplies](#books-and-supplies)
+		- [Headphones](#headphones)
+		- [Computer](#computer)
+		- [Software](#software)
 - [Policies](#policies)
 	- [Course Evaluation](#course-evaluation)
 	- [Grades](#grades)
@@ -27,6 +32,8 @@ Date modified: 2018-08-23
 
 
 # COURSE OVERVIEW
+
+## Basic Info
 
 - Name: Sound for Digital Media
 - Course Number: MART 445
@@ -81,6 +88,32 @@ Students are expected to bring ideas to explore these techniques. The goals of t
 For this semester, there are no specific pre-req's for this course. Instead, you are expected to utilize your previous expertise in sound, audio, music, and film towards the projects presented in the course.
 
 With that being said, it is suggested that you have taken Intro to Sonic Art (MART 245), Principles of Sound (MART 330), as well as Sound for Film (MART 345).
+
+## Books and Supplies
+
+There are no required texts that you must purchase for this course. All readings, music, or sound examples will be available to you through web links, the library, or the class Moodle.
+
+### Headphones
+
+You will need to bring a pair of headphones for work in this class. I would suggest you invest in a good pair, as part of your grade will be based on the technical quality of your work. If you cannot hear issues because you have poor quality headphones, then you are risking poor grades.
+
+You are looking for reference quality headphones. That means headphones that present your audio to you as honest and neutral as possible. A bad mix should sound like a bad mix. Hyped headphones that accentuate bass or high frequencies in flattering ways can hide detail and mix issues.
+
+For more info, the following guide provides good information on the two major types of headphones and suggestions.
+
+- [Best Studio Headphones: The Ultimate Musician’s Guide](https://ehomerecordingstudio.com/best-recording-studio-headphones/)
+
+
+### Computer
+
+You will need access to a computer capable of running modern audio synthesis and signal processing environments, as well as digital audio workstations (DAWs) and editing software. This computer should also be capable of real-time signal processing through analog inputs and outputs (i.e., using an audio interface or web cam). Please leverage departmental resources whenever necessary.
+
+### Software
+
+For this semester, instruction of technology specific skills will be demonstrated and taught in [Ableton Live](https://www.ableton.com/en/shop/education/). This is an industry standard for creative applications with audio and sound. This is also a piece of software that will be taught in courses throughout the sonic arts track.
+
+You are encouraged to purchase this software or utilize media art's computer labs, where it is available for student use.
+
 
 
 # Policies
