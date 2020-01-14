@@ -1,5 +1,30 @@
 # SCHEDULE
 
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [SCHEDULE](#schedule)
+- [Dates To Be Aware Of](#dates-to-be-aware-of)
+- [Weekly Breakdown](#weekly-breakdown)
+	- [Week 1 - Introduction and DAW's Revisited](#week-1-introduction-and-daws-revisited)
+	- [Week 2 - DAW's Revisited and Crit 1](#week-2-daws-revisited-and-crit-1)
+	- [Week 3 - Multi-Track Mixing](#week-3-multi-track-mixing)
+	- [Week 4 - Multi-Track Recording and Crit 2](#week-4-multi-track-recording-and-crit-2)
+	- [Week 5 - Mastering](#week-5-mastering)
+	- [Week 6 - Mastering Con't and Crit 3](#week-6-mastering-cont-and-crit-3)
+	- [Week 7 - Multi-Channel Audio](#week-7-multi-channel-audio)
+	- [Week 8 - Immersive Audio](#week-8-immersive-audio)
+	- [Week 9 - Immersive Audio Theory and Crit 4](#week-9-immersive-audio-theory-and-crit-4)
+	- [SPRING BREAK](#spring-break)
+	- [Week 10 - Installation, Sculpture, and Final Project Launch](#week-10-installation-sculpture-and-final-project-launch)
+	- [Week 11 - Hackathons](#week-11-hackathons)
+	- [Week 12 - Open Topic](#week-12-open-topic)
+	- [Week 13 - Final Project Previews](#week-13-final-project-previews)
+	- [Week 14 - Final Project Presentations](#week-14-final-project-presentations)
+	- [Week 15 - Class Wrap-up](#week-15-class-wrap-up)
+	- [Finals](#finals)
+
+<!-- /TOC -->
+
 # Dates To Be Aware Of
 
 _The following are required dates and meetings outside of regular class. Your time will be compensated with class times that are released._
@@ -19,7 +44,7 @@ _The following are required dates and meetings outside of regular class. Your ti
 
 # Weekly Breakdown
 
-## Week 1
+## Week 1 - Introduction and DAW's Revisited
 
 **Class 1**
 
@@ -44,7 +69,7 @@ _For those of you who tool MART 245 - Intro to Sonic Art, or for those who know 
 **TODO:**
 
 
-## Week 2
+## Week 2 - DAW's Revisited and Crit 1
 
 **Class 1**
 
@@ -61,7 +86,7 @@ Meet in the Sound Studio
 **TODO:**
 
 
-## Week 3
+## Week 3 - Multi-Track Mixing
 
 Multi-track mixing.
 
@@ -82,7 +107,7 @@ Project 2 - Remix Stems
 **TODO:**
 
 
-## Week 4
+## Week 4 - Multi-Track Recording and Crit 2
 
 **Class 1**
 
@@ -95,7 +120,7 @@ CRITIQUE DAY - Project 2
 **TODO:**
 
 
-## Week 5
+## Week 5 - Mastering
 
 Mastering
 
@@ -111,7 +136,7 @@ Mastering
 **TODO:**
 
 
-## Week 6
+## Week 6 - Mastering Con't and Crit 3
 
 **Class 1**
 
@@ -124,7 +149,7 @@ CRITIQUE DAY for Project 3
 **TODO:**
 
 
-## Week 7
+## Week 7 - Multi-Channel Audio
 
 Multi-channel Sonic Art
 
@@ -140,7 +165,7 @@ Multi-channel Sonic Art
 **TODO:**
 
 
-## Week 8
+## Week 8 - Immersive Audio
 
 **Class 1**
 
@@ -153,7 +178,27 @@ Reproducing immersive audio
 **TODO:**
 
 
-## Week 9
+## Week 9 - Immersive Audio Theory and Crit 4
+
+**Class 1**
+
+Human Localization and Immersive Audio Theory
+
+**Class 2**
+
+Crit 4
+
+**TODO:**
+
+
+## SPRING BREAK
+
+_NO CLASSES_
+
+
+## Week 10 - Installation, Sculpture, and Final Project Launch
+
+ASSIGN FINAL PROJECTS!
 
 **Class 1**
 
@@ -166,14 +211,7 @@ Sonic Art as Sculpture
 **TODO:**
 
 
-## SPRING BREAK
-
-_NO CLASSES_
-
-
-## Week 10
-
-ASSIGN FINAL PROJECTS!
+## Week 11 - Hackathons
 
 **Class 1**
 
@@ -182,18 +220,7 @@ ASSIGN FINAL PROJECTS!
 **TODO:**
 
 
-## Week 11
-
-**Class 1**
-
-**Class 2**
-
-**TODO:**
-
-
-## Week 12
-
-
+## Week 12 - Open Topic
 
 **Class 1**
 
@@ -207,7 +234,7 @@ _No CLASS_
 **TODO:**
 
 
-## Week 13
+## Week 13 - Final Project Previews
 
 In class presentation of Final Project Works in Progress
 
@@ -224,7 +251,7 @@ Second half of students
 Setup Production Studio Friday, April 17th. All help welcomed.
 
 
-## Week 14
+## Week 14 - Final Project Presentations
 
 **_Final Project Presentations_**
 
@@ -241,7 +268,7 @@ _NO CLASS_
 **TODO:**
 
 
-## Week 15
+## Week 15 - Class Wrap-up
 
 _The night of the 28th is the premier for my new work "The Grove: Sonic Space no. 10"_
 
