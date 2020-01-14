@@ -28,6 +28,14 @@ Date modified: 2018-08-23
 
 # COURSE OVERVIEW
 
+- Name: Sound for Digital Media
+- Course Number: MART 445
+- CRN: 33391
+- Credits: 3
+- Location: McGill 127 & Sound Studio - McGill 123
+- Date/Time: TR, 11:00AM-12:20PM
+
+
 ## Description
 
 _Sound for Digital Media_ is an advanced, project based course focusing on the technical and aesthetic qualities of creating sound, sonic art, and music for and with digital media. This course will aim to teach students technical skills, including; digital signal theory, signal flow, advanced microphone techniques, session management and workflow, assisted sound synthesis, advanced mixing, and mastering. Artistically and creatively, this course will study artists involved in electronic music, sound for the web, sonic artists, audio engineers, and commercial sound. The study of these artists will offer an aesthetic grounding for students to work against as they create their own audio based art, or work to capture the sonic art of other artists.
@@ -56,6 +64,7 @@ Students are expected to bring ideas to explore these techniques. The goals of t
 - [Dr. Michael Musick](http://michaelmusick.com)
 - E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu).
 - Office: McGill Hall, 232.
+- Office Hours: Current Office Hours are posted on my teaching site and office door.
 
 
 
@@ -86,14 +95,19 @@ Student work and progress will be assessed through:
     - These are critical to your development.
 - Projects
 	- There will be two assigned projects throughout the semester that relate to the current topics being discussed.
+- Project Presentation
+    - At least one, but more likely two, of the projects from this semester are required to be presented publicly. These will likely occur through course organized shows.
 - Project Documentation
 	- Each project will require project documentation, including; a demo video, written technical report, and written description.
-
+- In-class discussions and critiques
+    - You are expected to engage with class discussions about technical and artistic issues.
+    - You are expected to engage with class discussions about outside readings, videos, and listenings.
+    - You are expected to engage in class critique days of all projects.
 
 
 #### Projects
 
-We will have two projects throughout the course that are relevant to concepts, techniques, and creative ideas from recent content.
+We will have projects throughout the course that are relevant to concepts, techniques, and creative ideas from recent content.
 
 Project grades will be based primarily on the student’s ability to:
 
@@ -118,9 +132,8 @@ This class will be participatory, and you are expected to participate in discuss
 Grades will be determined according to the following breakdown:
 
 - In-class discussions and critiques: 10%
-- Weekly Sketches: 50%
-- Project 1: 10%
-- Project 2: 30%
+- Projects: 80%
+- Final Project Presentation: 10%
 
 
 Letters are assigned according to the following final course percentages:
