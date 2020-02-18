@@ -163,7 +163,9 @@ Guest lecture from Adj. Prof. Geoff Cole
         - Read in-depth, Chapters 19-20
 - General Automation
 - Riding the Faders
-- Comparison Listening
+- Compression and EQ on the Master Bus
+- Reference Listenings
+- Mix listening
 - Launch Project 2
 
 
