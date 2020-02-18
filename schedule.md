@@ -91,59 +91,85 @@ Multi-track mixing.
 
 **Class 1**
 
-- Multi-track mixing
-- Stems
-- Busses
-- Master Busses
+- Things to Read:
+    - Senior, Mike. _Mixing Secrets for the Small Studio_ Focal Press. 2015
+        - Read, Chapters 1-5
+    - [Mixing With Ableton Live](https://www.soundonsound.com/techniques/mixing-ableton-live)
+    - [Boring But Very Useful: How to Prep A Mix In Ableton Live – Brooklyn Digital Conservatory](https://bkdigicon.com/boring-but-very-useful-how-to-prep-a-mix-in-ableton-live/)
+- Optional Reading:
+    - [SHOULD I MIX IN ABLETON LIVE? THE GOOD, THE BAD, AND THE GLITCHY](https://hobo-tech.com/technologies/livetips/should-i-mix-in-ableton-live-the-good-bad-and-glitchy/)
+- Multi-track mixing, what is it?
+- Setup the session
+- Creating a reference playlist
+
 
 **Class 2**
 
-Project 2 - Remix Stems
+- Things to Read:
+    - Senior, Mike. _Mixing Secrets for the Small Studio_ Focal Press. 2015
+        - Skim Chapters 1-4
+        - Read in-depth, Chapters 5-7
+- Timing adjustments
+- Tuning adjustments
 
-- Multi-track mixing continued
-- Setting up your session
 
-**TODO:**
-
-
-## Week 4 - Multi-Track Recording and Crit 2
+## Week 4 - Multi-Track Mixing Con't
 
 **Class 1**
 
-Multi-track recording
+Guest lecture from Adj. Prof. Geoff Cole
+
+- Designing a speaker company
 
 **Class 2**
 
-CRITIQUE DAY - Project 2
+- Read:
+    - Senior, Mike. _Mixing Secrets for the Small Studio_ Focal Press. 2015
+        - Read in-depth, Chapters 8-10
+- Building a raw mix
+- Compression
+
+
+## Week 5 - Multi-Track Mixing Con't
+
+**Class 1**
+
+- Read:
+    - Senior, Mike. _Mixing Secrets for the Small Studio_ Focal Press. 2015
+        - Read in-depth, Chapters 11-15
+- EQ in the mix process
+- Side-chaining
+
+**Class 2**
+
+- Read:
+    - Senior, Mike. _Mixing Secrets for the Small Studio_ Focal Press. 2015
+        - Read in-depth, Chapters 16-18
+- Reverb
+- Basics of reverb in the natural world
+- Utilizing Reverb in the Mix Process
+- Delay
+
 
 **TODO:**
 
 
-## Week 5 - Mastering
+## Week 6 - Multi-Track Mixing -- Finish it up
+
+**Class 1**
+
+- Read:
+    - Senior, Mike. _Mixing Secrets for the Small Studio_ Focal Press. 2015
+        - Read in-depth, Chapters 19-20
+- General Automation
+- Riding the Faders
+- Comparison Listening
+- Launch Project 2
+
+
+**Class 2**
 
 Mastering
-
-**Class 1**
-
-**Class 2**
-
-- Mastering specifications
-- Mastering as Creative Process
-
-- Project 3 Launch - Mastering
-
-**TODO:**
-
-
-## Week 6 - Mastering Con't and Crit 3
-
-**Class 1**
-
-- Mastering for other media
-
-**Class 2**
-
-CRITIQUE DAY for Project 3
 
 **TODO:**
 
