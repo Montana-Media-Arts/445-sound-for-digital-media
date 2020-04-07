@@ -39,11 +39,14 @@ Sonic Art as Installation
 
 **Class 1**
 
-Mastering 1
+- Finish up installation discussion
+- Round Table on Final Project Ideas
+- Introduce Mastering
 
 **Class 2**
 
-Mastering 2
+- Discussion of Final Project (round table)
+- watch/read mastering lessons on your own
 
 **TODO:**
 
@@ -54,11 +57,12 @@ In class presentation of Final Project Works in Progress
 
 **Class 1**
 
-First half of students
+Finish up mastering conversation.
 
 **Class 2**
 
-Second half of students
+First half of students
+
 
 **TODO:**
 
@@ -68,9 +72,11 @@ Second half of students
 
 **Class 1**
 
+Second half of students
 
 **Class 2**
 
+Free day to work on final projects.
 
 **TODO:**
 
