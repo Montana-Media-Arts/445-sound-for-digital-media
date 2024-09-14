@@ -2,7 +2,7 @@
 
 # Syllabus | Sound for Digital Media (MART 445)
 
-Date modified: 2018-08-23
+Date modified: 2020-08-23
 
 **Table of Contents**
 
