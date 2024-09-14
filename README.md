@@ -1,4 +1,4 @@
-# Sound for Digital Media (MART 445)  |  Fall 2018
+# Sound for Digital Media (MART 445)  |  Fall 2020
 
 
 ## Professor/Instructor
